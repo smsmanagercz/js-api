@@ -5,7 +5,7 @@ A simple TypeScript/JavaScript library for sending SMS messages using the SMSMan
 ## Installation
 
 ```bash
-npm install sms-sender
+npm install smsmanager-js-api
 ```
 
 ## Building the Project

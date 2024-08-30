@@ -12,6 +12,7 @@
         "smsmanager",
         "sms api"
     ],
+    "repository": "github:smsmanager/smsmanager-js-api",
     "author": "SmsManager.com",
     "license": "MIT",
     "dependencies": {
