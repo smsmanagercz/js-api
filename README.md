@@ -1,6 +1,6 @@
 # SmsManager JS API
 
-A simple TypeScript/JavaScript library for sending SMS messages using the SMSManager API. Supports both Promise-based and callback-based usage, and returns message ID information.
+A simple TypeScript/JavaScript library for sending SMS messages using the SMSManager API (https://smsmanager.com). Supports both Promise-based and callback-based usage, and returns message ID information. Source code available on [GitHub](https://github.com/smsmanager/smsmanager-js-api).
 
 ## Installation
 
