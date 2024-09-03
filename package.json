@@ -1,6 +1,6 @@
 {
     "name": "smsmanager-js-api",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "description": "A simple SMS sending library using the SMSManager API with message ID support",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
         "smsmanager",
         "sms api"
     ],
-    "repository": "github:smsmanager/smsmanager-js-api",
+    "repository": "github:smsmanagercz/js-api",
     "author": "SmsManager.com",
     "license": "MIT",
     "dependencies": {
