@@ -27,7 +27,7 @@ class SmsManager {
           body: new URLSearchParams({
             apikey: this.apiKey,
             number: phoneNumber,
-            text: message
+            message: message
           })
         });
 
